@@ -1,0 +1,1 @@
+GWT wrapper to transfer server classes to client
